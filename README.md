@@ -1,7 +1,7 @@
 # Countdown_Timer
 
 <h4>Português:</h4>
-<p>Esse é um projeto para meu portfólio. Ele é um contador que mostra quanto tempo falta até uma data e horário escolhido pelo usuário.</p>
+<p>Esse é um projeto para meu portfólio. Ele é um contador que mostra quanto tempo falta até uma data e horário escolhida pelo usuário.</p>
 
 [Clique para ver o projeto rodando. (em breve)]()
 
